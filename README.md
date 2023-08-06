@@ -5,7 +5,7 @@
 - Edit App.java
 - Edit pom.xml
 - Maven install / Build
-- copy war file in Tomcat webapps ( Same Java SDK with Eclipse )
+- copy war file in Tomcat webapps ( Same Java SDK with Eclipse ) or `mvn spring-boot:run`
 - http://localhost:8080/SpringWebAppDeployToTomcatExample-0.0.1-SNAPSHOT/hello/view
   
 
